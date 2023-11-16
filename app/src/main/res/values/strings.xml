@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="adicionar_itens">Adicionar Itens</string>
+    <string name="inserir">Inserir</string>
+    <string name="total">Total: R$00,00</string>
+    <string name="preco">R$ 00,00</string>
+    <string name="nome_produto">Nome do Produto</string>
+    <string name="cadastrar_produto">Cadastrar Produto</string>
+    <string name="quantidade">Quantidade</string>
+</resources>
